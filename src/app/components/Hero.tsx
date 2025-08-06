@@ -74,7 +74,7 @@ export default function Hero() {
                   </div>
                   
                   <div className="flex justify-between items-center">
-                    <span className="text-gray-600 dark:text-gray-400 font-medium">Today's Change</span>
+                    <span className="text-gray-600 dark:text-gray-400 font-medium">{"Today's Change"}</span>
                     <span className="text-green-500 font-bold">
                       +$<AnimatedNumber value={1247} /> (+2.4%)
                     </span>

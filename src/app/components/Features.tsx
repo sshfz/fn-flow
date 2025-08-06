@@ -45,7 +45,7 @@ export default function Features() {
             <span className="bg-gradient-to-r from-fintech-primary to-fintech-secondary bg-clip-text text-transparent"> Modern World</span>
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-            Experience the next generation of financial technology with features designed for today's digital economy.
+            {"Experience the next generation of financial technology with features designed for today's digital economy."}
           </p>
         </div>
         
